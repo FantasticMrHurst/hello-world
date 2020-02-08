@@ -2,4 +2,4 @@
 
 My First Repository
 
-I want to build a web-app from scratch, learning all the ins and outs along the way. It will be focused around a functional fitness business. 
+Working on a web-app to use for following a specific workout program. I have a pdf version but would like an app to view on my phone to follow the workout of the day and log days working out(Streaks).
